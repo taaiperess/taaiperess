@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF1493&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Tainá!/>+:%29;+;<Hello,+I'm+Tainá!/>+:%29;;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Tainá!/>+:%29;+;<Hello,+I'm+Tainá!/>+:%29;;)](https://git.io/typing-svg)
 
 - 💻 I'm Attendant
 - 💪 I already counted on: `.CSS3` | `.HTML5` | 
